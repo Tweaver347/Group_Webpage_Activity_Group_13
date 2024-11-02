@@ -136,8 +136,12 @@ button:hover {
 }
 
 .unique-style-2 {
-    background-color: #ffd1f3;
+    background-color: #e198d7;
     font-family: 'Calibri', monospace;
 }
 
+.unique-style-3 {
+    background-color: #aae198;
+    font-family: 'Calibri', monospace;
+}
 
